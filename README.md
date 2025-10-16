@@ -30,8 +30,11 @@ Responsive UI built using React + Tailwind CSS
 
 🧰 Setup
 git clone https://github.com/<your-username>/react-paste-app.git
+
 cd react-paste-app
+
 npm install
+
 npm start
 
 App runs at http://localhost:3000.
