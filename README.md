@@ -2,7 +2,7 @@
 
 A simple and clean web app built with React to create, edit, delete, and manage text snippets (like mini notes or pastes). This project helps users quickly save text data and retrieve it later — similar to Pastebin but simpler and fully local.
 
-💡 Description
+# Description
 
 The React Paste App allows users to:
 
@@ -18,7 +18,7 @@ Automatically store all data locally (via Redux or localStorage)
 
 It’s a beginner-friendly project demonstrating key React concepts — components, props, hooks, Redux state management, and routing.
 
-🚀 Features
+# Features
 
 Add / Edit / Delete pastes
 
@@ -28,7 +28,7 @@ Clipboard copy option
 
 Responsive UI built using React + Tailwind CSS
 
-🧰 Setup
+# Setup
 git clone https://github.com/<your-username>/react-paste-app.git
 
 cd react-paste-app
@@ -39,5 +39,5 @@ npm start
 
 App runs at http://localhost:3000.
 
-Author
+# Author
 Vaishnavi Patil
